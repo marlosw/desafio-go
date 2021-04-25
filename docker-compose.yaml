@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+
+    hello:
+        image: marlosw/hello:prod
+        container_name: go-hello
